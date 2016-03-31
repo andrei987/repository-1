@@ -1,1 +1,7 @@
 modificare
+<<<<<<< Updated upstream
+ modificare after stach 
+=======
+noi modificari
+ Hello world
+>>>>>>> Stashed changes
